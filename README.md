@@ -1,6 +1,6 @@
 <!-- 🌸 HEADER -->
 <h1 align="center" style="color:#ffb6c1;">
-  🌈 Hey there, I'm <span style="color:#ff69b4;">Hideya Jedidi</span> 🌸
+  🩷 Hey there, I'm <span style="color:#ff69b4;">Hideya Jedidi</span> 🌸
 </h1>
 
 <p align="center" style="color:#d87093; font-size:18px;">
